@@ -5,18 +5,18 @@ An interactive AI-powered chatbot built with Streamlit and powered by Groq’s L
 🔗 https://ai-chat-assistant-hetal.streamlit.app/
 
 🧠 Features
-Real-time conversational AI
-Powered by LLaMA 3.3–70B via Groq
-Fast inference with Groq’s LPU infrastructure
-Clean and user-friendly Streamlit UI
-Secure API key handling using st.secrets
-Easy to deploy and lightweight
+Real-time conversational AI 
+Powered by LLaMA 3.3–70B via Groq  
+Fast inference with Groq’s LPU infrastructure  
+Clean and user-friendly Streamlit UI  
+Secure API key handling using st.secrets  
+Easy to deploy and lightweight  
 
-🛠️ Tech Stack
-Python
-Streamlit
-Groq API
-LLaMA 3.3 (70B)
+🛠️ Tech Stack  
+Python  
+Streamlit  
+Groq API  
+LLaMA 3.3 (70B)  
 
 📂 Project Structure
 ├── app.py
