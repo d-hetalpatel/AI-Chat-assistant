@@ -22,7 +22,7 @@ LLaMA 3.3 (70B)
 ├── app.py  
 ├── requirements.txt  
 └── .streamlit  
-    └── secrets.toml  
+      └── secrets.toml    
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository 
