@@ -24,47 +24,45 @@ LLaMA 3.3 (70B)
 └── .streamlit
     └── secrets.toml
 
-
-
 ⚙️ Installation & Setup
-1️⃣ Clone the Repository
-git clone https://github.com/your-username/ai-chat-assistant.git
-cd ai-chat-assistant
+1️⃣ Clone the Repository 
+git clone https://github.com/your-username/ai-chat-assistant.git  
+cd ai-chat-assistant  
 
-2️⃣ Install Dependencies
-pip install -r requirements.txt
+2️⃣ Install Dependencies  
+pip install -r requirements.txt  
 
-3️⃣ Configure API Key
-Create a file at:
-.streamlit/secrets.toml
-Add your Groq API key:
-GROQ_API_KEY = "your_groq_api_key_here"
+3️⃣ Configure API Key  
+Create a file at:  
+.streamlit/secrets.toml  
+Add your Groq API key:  
+GROQ_API_KEY = "your_groq_api_key_here"  
 
-4️⃣ Run the Application
-streamlit run app.py
+4️⃣ Run the Application  
+streamlit run app.py  
 
-🧪 How It Works
-User enters a prompt in the chat input
-The prompt is sent to Groq’s LLaMA 3.3–70B model
-The model generates a response
-The response is displayed instantly on the UI
+🧪 How It Works  
+User enters a prompt in the chat input  
+The prompt is sent to Groq’s LLaMA 3.3–70B model  
+The model generates a response  
+The response is displayed instantly on the UI  
 
-💡 Use Cases
-General Q&A assistant
-Learning and research support
-AI chatbot demo for portfolios
-LLM experimentation with Groq
+💡 Use Cases  
+General Q&A assistant  
+Learning and research support  
+AI chatbot demo for portfolios  
+LLM experimentation with Groq  
 
-📌 Future Enhancements
-Chat history support
-Streaming responses
-Role-based prompts (system/user)
-UI enhancements
-Multi-model selection
+📌 Future Enhancements  
+Chat history support  
+Streaming responses  
+Role-based prompts (system/user)  
+UI enhancements  
+Multi-model selection  
 
-👤 Author
-Hetal
-Aspiring Data Scientist | ML & AI Enthusiast
+👤 Author  
+Hetal  
+Aspiring Data Scientist | ML & AI Enthusiast  
 
-⭐ If you like this project
+⭐ If you like this project  
 Give it a ⭐ on GitHub — it helps a lot!
