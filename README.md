@@ -18,11 +18,11 @@ Streamlit
 Groq API  
 LLaMA 3.3 (70B)  
 
-📂 Project Structure
-├── app.py
-├── requirements.txt
-└── .streamlit
-    └── secrets.toml
+📂 Project Structure  
+├── app.py  
+├── requirements.txt  
+└── .streamlit  
+    └── secrets.toml  
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository 
